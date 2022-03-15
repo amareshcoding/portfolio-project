@@ -1,0 +1,20 @@
+
+.Projects{
+     padding: 10px;
+     background-color:#01beae ;
+     color: #272341;
+}
+
+.Projects-me{
+     text-align: center;
+     
+}
+.Projects-container{
+     padding: 10px;
+     display: grid;
+     grid-template-columns: repeat(2,1fr);
+     grid-gap: 20px;
+}
+.Projects-container>div>img{
+     width: 500px;
+}

@@ -1,0 +1,25 @@
+.TechStack{
+     /* border: 1px solid; */
+     padding: 10px;
+     margin-bottom: 20px;
+     color: #272341;
+}
+.TechStack-me{
+     text-align: center;
+}
+.TechStack-div{
+     padding-left: 15%;
+     margin: auto;
+     
+     text-align: center;
+}
+/* .TechStack-table-top,.TechStack-table-middle,.TechStack-table-buttom{
+    gap: 10px;
+} */
+.TechStack-table-td{
+     width: 220px;
+}
+.TechStack-table-name{
+     font-size: 18px;
+     font-weight: 500;
+}

@@ -17,3 +17,17 @@
      margin-top: 8px;
      font-size: 3.5rem;
 }
+.Front-know-more{
+     cursor: pointer;
+     font-size: 17px;
+     font-weight: bold;
+     color: #01beae;
+     background: none;
+     padding: 10px 30px;
+     border: 2px solid #01beae;
+}
+.Front-know-more:hover{
+     
+     color: white;
+     background: #01beae;
+}
