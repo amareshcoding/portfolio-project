@@ -1,0 +1,19 @@
+.Front{
+     /* border: 1px solid; */
+     height: 596px;
+     color: #272341;
+}
+.Front-top-div{
+     padding-left: 100px;
+     padding-top: 130px;
+     /* border: 1px solid; */
+}
+.Front-my-name{
+     
+     font-size: 3.5rem;
+     margin-bottom: 8px;
+}
+.Front-developer{
+     margin-top: 8px;
+     font-size: 3.5rem;
+}

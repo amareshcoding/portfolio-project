@@ -1,5 +1,5 @@
 .Navbar{
-     background: rgb(51, 147, 185);
+     background: #01beae;
      height: 30px;
      padding: 1%;
      display: flex;
@@ -13,4 +13,5 @@
 .Navbar-h5{
      margin: 0;
      font-size: 20px;
+     color:#272341;
 }
