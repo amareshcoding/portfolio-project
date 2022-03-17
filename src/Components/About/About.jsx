@@ -10,7 +10,7 @@ export const About=()=>{
                </div>
                <div className="About-right-div">
                     <h1 className='About-me'>ABOUT ME</h1>
-                    <p className="About-about-p">I am Amresh Chandra Barik, I am a ful stack developer having experties in MERN stack,  I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.</p>
+                    <p className="About-about-p">I am Amresh Barik a Full Stack Developer having expertise in the MERN stack, I am good at problem-solving and very collaborative.   I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.</p>
                     <div className='About-resume-btn-div'>
                          <a href="https://drive.google.com/file/d/1sUJOWBMOKxrPan_Jlq-Maktoa4yXtzaH/view?usp=sharing" rel="noreferrer" target="_blank">
                          <button id='Resume' className='About-resume-btn'>Resume</button>
