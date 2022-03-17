@@ -4,6 +4,7 @@ import { Front } from './About/Front'
 import { About } from './About/About'
 import {TechStack} from './TechStack/TechStack'
 import { Projects } from './Projects/Projects'
+import { Contactme } from './Contactme/Contactme'
 
 export const Portfolio=()=>{
      
@@ -14,5 +15,6 @@ export const Portfolio=()=>{
           <About/>
           <TechStack/>
           <Projects/>
+          <Contactme/>
      </div>)
 }

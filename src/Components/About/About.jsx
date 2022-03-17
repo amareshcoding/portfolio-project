@@ -4,6 +4,11 @@ export const About=()=>{
      return(
           <div className="About" id='About' >
                <div className="About-left-div">
+                    <div className="About-img-div">
+                         <img className='About-img' src="Img.png" alt="" />
+                    </div>
+               </div>
+               <div className="About-right-div">
                     <h1 className='About-me'>ABOUT ME</h1>
                     <p className="About-about-p">I am Amresh Chandra Barik, I am a ful stack developer having experties in MERN stack,  I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.</p>
                     <div className='About-resume-btn-div'>
@@ -29,11 +34,6 @@ export const About=()=>{
                          <a href="https://www.quora.com/profile/Amaresh-Barik-10" rel="noreferrer" target="_blank">
                               <img src="https://cdn-icons.flaticon.com/png/128/3256/premium/3256033.png?token=exp=1647366681~hmac=63198b56e6686a05f364fee7658c46f8" alt="Quora" />
                          </a>
-                    </div>
-               </div>
-               <div className="About-right-div">
-                    <div className="About-img-div">
-                         <img className='About-img' src="Img.png" alt="" />
                     </div>
                </div>
           </div>

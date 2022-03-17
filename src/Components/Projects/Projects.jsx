@@ -7,55 +7,53 @@ export const Projects=()=>{
                <div className='Projects-container'>
                     <div className='Projects-container-div'>
                          <div className='Projects-container-img-div'>
-                              <img src="https://gatsby-simplefolio.netlify.app/static/e7d8c1960c437bd82682356bcb4160d4/1abfa/project.jpg" alt="" />
+                              <img src="https://www.freecoursesites.us/wp-content/uploads/2021/12/Build-a-Backend-Project-with-NodeJS-ExpressJS-MongoDB.jpg" alt="" />
                          </div>
                          <div className='Projects-container-text'>
-                              <p>I am Amresh Chandra Barik, I am a ful stack developer having experties in MERN stack, I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.I can collaborate with teammates and learn in global work environments.</p>
+                              <p>It is a back-end project created by my team at Masai School, here we are using NodeJs, ExpressJs, and MongoDB. I toke responsibility of Building Server, Maintain Database and Create APIs.</p>
                               <div className='Projects-container-btns'>
-                                   <a>GitHub</a>
-                                   <a>Live</a>
-                                   <a>Blog</a>
+                                   <a rel="noreferrer" target="_blank" href="https://github.com/amareshcoding/healthkart-server">GitHub</a>
+                                   <a rel="noreferrer" target="_blank" href="https://medium.com/@amaresh.acb/healthkart-com-clone-2-4a9fcab465b2">Blog</a>
                               </div>
                          </div>
                         
                     </div>
                     <div className='Projects-container-div'>
                          <div className='Projects-container-img-div'>
-                              <img src="https://gatsby-simplefolio.netlify.app/static/e7d8c1960c437bd82682356bcb4160d4/1abfa/project.jpg" alt="" />
+                              <img src="project2.png" alt="" />
                          </div>
                          <div className='Projects-container-text'>
-                              <p>I am Amresh Chandra Barik, I am a ful stack developer having experties in MERN stack, I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.I can collaborate with teammates and learn in global work environments.</p>
+                              <p>It was a front-end project created by my team at Masai School, It was a team of 4 members, here we are using HTML, CSS, and JavaScript. I take the responsibility for Building the Pruduct Page and Cart Page using API methods.</p>
                               <div className='Projects-container-btns'>
-                                   <a>GitHub</a>
-                                   <a>Live</a>
-                                   <a>Blog</a>
+                                   <a rel="noreferrer" target="_blank" href="https://github.com/amareshcoding/healthkart-clone-project-only-front-end">GitHub</a>
+                                   <a rel="noreferrer" target="_blank" href="https://healthkart-clone-project-only-front-end.netlify.app/">Live</a>
+                                   <a rel="noreferrer" target="_blank" href="https://medium.com/@amaresh.acb/project-healthkart-clone-bfec7dde93b1">Blog</a>
                               </div>
                          </div>
                     </div>
                     <div className='Projects-container-div'>
                          <div className='Projects-container-img-div'>
-                              <img src="https://gatsby-simplefolio.netlify.app/static/e7d8c1960c437bd82682356bcb4160d4/1abfa/project.jpg" alt="" />
+                              <img src="project3.png" alt="" />
                          </div>
                          <div className='Projects-container-text'>
-                              <p>I am Amresh Chandra Barik, I am a ful stack developer having experties in MERN stack, I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.I can collaborate with teammates and learn in global work environments.</p>
+                              <p>It was a front-end clone project created by my team at Masai School. It was a team of 5 members, here we are using HTML, CSS, and JavaScript. I take the responsibility for Building Two Web Pages and Sign Up/log in using Local Storage.</p>
                               <div className='Projects-container-btns'>
-                                   <a>GitHub</a>
-                                   <a>Live</a>
-                                   <a>Blog</a>
+                                   <a rel="noreferrer" target="_blank" href="https://github.com/amareshcoding/kindmeal-clone-project">GitHub</a>
+                                   <a rel="noreferrer" target="_blank" href="https://kindmeal-clone-project.netlify.app/">Live</a>
+                                   <a rel="noreferrer" target="_blank" href="https://medium.com/@amaresh.acb/kindmeal-my-clone-project-presentation-fe92196d94fc">Blog</a>
                               </div>
                          </div>
                         
                     </div>
                     <div className='Projects-container-div'>
                          <div className='Projects-container-img-div'>
-                              <img src="Portfolio-project1.png" alt="" />
+                              <img src="project4.png" />
                          </div>
                          <div className='Projects-container-text'>
-                              <p>I am Amresh Chandra Barik, I am a ful stack developer having experties in MERN stack, I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.I can collaborate with teammates and learn in global work environments.</p>
+                              <p>It was my Professional Portfolio Project. It was a solo Project of mine, here I am using React and CSS to complete the it. Live site of this project contains my professional details and link to my professional socil accounts. </p>
                               <div className='Projects-container-btns'>
-                                   <a>GitHub</a>
-                                   <a>Live</a>
-                                   <a>Blog</a>
+                                   <a rel="noreferrer" target="_blank" href="https://github.com/amareshcoding/portfolio-project">GitHub</a>
+                                   <a rel="noreferrer" target="_blank" href="">Live</a>
                               </div>
                          </div>
                         

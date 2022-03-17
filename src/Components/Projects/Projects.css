@@ -1,5 +1,5 @@
 .Projects {
-  padding: 10px;
+  padding: 1%;
   padding-left: 10%;
   padding-right: 10%;
   background-color: #01beae;
@@ -18,15 +18,15 @@
   width: 500px;
 } */
 .Projects-container-div {
+  background: #3f3a63;
   padding-bottom: 1%;
-  /* border: 1px solid yellow; */
-  background: white;
   box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
     rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
 }
 .Projects-container-img-div {
   width: 100%;
   height: 300px;
+  /* border: 2px solid #272341; */
 }
 .Projects-container-img-div > img {
   width: 100%;
@@ -37,8 +37,8 @@
   padding-right: 1%;
 }
 .Projects-container-text > p {
-  color: #272341;
-  font-weight: 700;
+  color: white;
+  font-weight: 500;
 }
 .Projects-container-btns {
   display: flex;
@@ -50,7 +50,7 @@
   font-weight: bold;
   padding: 1.5% 6%;
   color: #01beae;
-  background: white;
+  background: none;
   border: 2px solid #01beae;
   text-decoration: none;
 }
@@ -58,3 +58,21 @@
   color: white;
   background: #01beae;
 }
+@media only screen and (min-width:442px) and (max-width: 786px) {
+     .Projects {
+          margin-top: 5%;
+        }
+     .Projects-container {
+          display: grid;
+          grid-template-columns: repeat(1, 1fr);
+     }
+ }
+ @media only screen and (min-width:0px) and (max-width: 441px) {
+     .Projects {
+          margin-top: 19%;
+        }
+     .Projects-container {
+          display: grid;
+          grid-template-columns: repeat(1, 1fr);
+     }
+ }

@@ -1,21 +1,21 @@
 .Front{
      /* border: 1px solid; */
-     height: 596px;
      color: #272341;
 }
 .Front-top-div{
-     padding-left: 100px;
-     padding-top: 130px;
+     padding-left: 8%;
+     padding-top: 10%;
+     padding-bottom: 17%;
      /* border: 1px solid; */
 }
 .Front-my-name{
-     
      font-size: 3.5rem;
-     margin-bottom: 8px;
+     margin-bottom: 5px;
 }
 .Front-developer{
-     margin-top: 8px;
+     margin-top: 5px;
      font-size: 3.5rem;
+     
 }
 .Front-know-more{
      cursor: pointer;
@@ -28,7 +28,33 @@
      text-decoration: none;
 }
 .Front-know-more:hover{
-     
      color: white;
      background: #01beae;
 }
+@media only screen and (min-width:442px) and (max-width: 786px) {
+     .Front-my-name{
+          font-size: 2.3rem;
+          margin-bottom: 8px;
+     }
+     .Front-developer{
+          font-size: 2.3rem;
+     }
+     .Front-know-more{
+          font-size: 17px;
+          padding: 8px 25px;
+     }
+ }
+ @media only screen and (min-width:0px) and (max-width: 441px) {
+     .Front-my-name{
+          font-size: 1.5rem;
+          margin-bottom: 8px;
+     }
+     .Front-developer{
+          font-size: 1.5rem;
+     }
+     .Front-know-more{
+          font-size: 17px;
+          padding: 5px 20px;
+          font-size: 15px;
+     }
+ }
