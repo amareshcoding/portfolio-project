@@ -1,22 +1,9 @@
-/* .Navbar{
-     background: #01beae;
-     height: 30px;
-     padding: 1%;
-     display: flex;
-     justify-content: space-between;
-     box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
-} */
+
 .Navbar-div-2{
      display: flex;
      gap: 30px;
 }
-/* .Navbar-h5{
-     margin: 0;
-     font-size: 20px;
-     font-weight: bold;
-     color:#272341;
-     text-decoration: none;
-} */
+
 .Navbar{
      background: #272341;
      height: 30px;

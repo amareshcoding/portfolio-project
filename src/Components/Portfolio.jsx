@@ -6,7 +6,9 @@ import {TechStack} from './TechStack/TechStack'
 import { Projects } from './Projects/Projects'
 
 export const Portfolio=()=>{
-     return(<div className="Portfolio">
+     
+   
+     return(<div  className="Portfolio">
           <Navbar/>
           <Front/>
           <About/>

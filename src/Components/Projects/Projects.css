@@ -1,20 +1,60 @@
+.Projects {
+  padding: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-color: #01beae;
+  color: #272341;
+}
+.Projects-me {
+  text-align: center;
+}
+.Projects-container {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 50px;
+}
+/* .Projects-container > div > img {
+  width: 500px;
+} */
+.Projects-container-div {
+  padding-bottom: 1%;
+  /* border: 1px solid yellow; */
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.Projects-container-img-div {
+  width: 100%;
+  height: 300px;
+}
+.Projects-container-img-div > img {
+  width: 100%;
+  height: 100%;
+}
+.Projects-container-text {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.Projects-container-text > p {
+  color: #272341;
+  font-weight: 700;
+}
+.Projects-container-btns {
+  display: flex;
+  justify-content: space-evenly;
 
-.Projects{
-     padding: 10px;
-     background-color:#01beae ;
-     color: #272341;
 }
-
-.Projects-me{
-     text-align: center;
-     
+.Projects-container-btns > a {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 1.5% 6%;
+  color: #01beae;
+  background: white;
+  border: 2px solid #01beae;
+  text-decoration: none;
 }
-.Projects-container{
-     padding: 10px;
-     display: grid;
-     grid-template-columns: repeat(2,1fr);
-     grid-gap: 20px;
-}
-.Projects-container>div>img{
-     width: 500px;
+.Projects-container-btns > a:hover {
+  color: white;
+  background: #01beae;
 }

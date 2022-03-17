@@ -2,7 +2,7 @@ import './TechStack.css';
 
 export const TechStack=()=>{
      return(
-          <div className='TechStack'>
+          <div className='TechStack' id='TechStack'>
                <h1 className='TechStack-me'>MY TAECH STACK</h1>
                <div className='TechStack-div'>
                     <table className="TechStack-table">

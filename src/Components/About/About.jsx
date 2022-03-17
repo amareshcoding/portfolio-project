@@ -2,13 +2,13 @@ import './About.css'
 
 export const About=()=>{
      return(
-          <div className="About">
+          <div className="About" id='About' >
                <div className="About-left-div">
                     <h1 className='About-me'>ABOUT ME</h1>
                     <p className="About-about-p">I am Amresh Chandra Barik, I am a ful stack developer having experties in MERN stack,  I am gearing up for an exciting career in tech in which I can collaborate with teammates and learn in global work environments.</p>
                     <div className='About-resume-btn-div'>
                          <a href="https://drive.google.com/file/d/1sUJOWBMOKxrPan_Jlq-Maktoa4yXtzaH/view?usp=sharing" rel="noreferrer" target="_blank">
-                         <button className='About-resume-btn'>Resume</button>
+                         <button id='Resume' className='About-resume-btn'>Resume</button>
                          </a>
                     </div>
                     <br />
@@ -33,7 +33,7 @@ export const About=()=>{
                </div>
                <div className="About-right-div">
                     <div className="About-img-div">
-                         <img className='About-img' src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" />
+                         <img className='About-img' src="Img.png" alt="" />
                     </div>
                </div>
           </div>
