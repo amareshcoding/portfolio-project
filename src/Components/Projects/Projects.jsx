@@ -53,6 +53,7 @@ export const Projects=()=>{
                               <p>It was my Professional Portfolio Project. It was a solo Project of mine, here I am using React and CSS to complete the it. Live site of this project contains my professional details and link to my professional socil accounts. </p>
                               <div className='Projects-container-btns'>
                                    <a rel="noreferrer" target="_blank" href="https://github.com/amareshcoding/portfolio-project">GitHub</a>
+                                   <a rel="noreferrer" target="_blank" href="https://amaresh-portfolio.netlify.app/">Live</a>
                                    <a rel="noreferrer" target="_blank" href="">Live</a>
                               </div>
                          </div>
