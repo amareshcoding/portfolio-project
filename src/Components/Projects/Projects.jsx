@@ -7,12 +7,13 @@ export const Projects=()=>{
                <div className='Projects-container'>
                     <div className='Projects-container-div'>
                          <div className='Projects-container-img-div'>
-                              <img src="https://www.freecoursesites.us/wp-content/uploads/2021/12/Build-a-Backend-Project-with-NodeJS-ExpressJS-MongoDB.jpg" alt="" />
+                              <img src="project5.png" alt="" />
                          </div>
                          <div className='Projects-container-text'>
                               <p>It is a back-end project created by my team at Masai School, here we are using NodeJs, ExpressJs, and MongoDB. I toke responsibility of Building Server, Maintain Database and Create APIs.</p>
                               <div className='Projects-container-btns'>
-                                   <a rel="noreferrer" target="_blank" href="https://github.com/amareshcoding/healthkart-server">GitHub</a>
+                                   <a rel="noreferrer" target="_blank" href="https://github.com/amareshcoding/healthKart.com_clone_2.0">GitHub</a>
+                                   <a rel="noreferrer" target="_blank" href="https://healthkart-clone-fullstack.netlify.app/">Live</a>
                                    <a rel="noreferrer" target="_blank" href="https://medium.com/@amaresh.acb/healthkart-com-clone-2-4a9fcab465b2">Blog</a>
                               </div>
                          </div>
