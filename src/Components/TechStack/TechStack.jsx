@@ -3,7 +3,7 @@ import "./TechStack.css";
 export const TechStack = () => {
   return (
     <div className="TechStack" id="TechStack">
-      <h1 className="TechStack-me">MY TAECH STACK</h1>
+      <h1 className="TechStack-me">MY TECH STACK</h1>
 
       <div className="TechStack-container">
         <div className="TechStack-div">
